@@ -65,7 +65,7 @@ nbconvert==5.4.0
 nbformat==4.4.0
 notebook==5.7.4
 numpy==1.14.5
-opencv-python==3.4.1.15
+opencv-python==3.4.7.28
 openpyxl==2.5.12
 pandocfilters==1.4.2
 parsel==1.4.0
