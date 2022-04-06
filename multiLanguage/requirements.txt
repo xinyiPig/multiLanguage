@@ -118,7 +118,7 @@ testpath==0.4.2
 tornado==5.1.1
 traitlets==4.3.2
 translate-toolkit==2.3.1
-Twisted==18.4.0
+Twisted==22.2.0
 typing==3.6.6
 urllib3==1.22
 uuid==1.30
