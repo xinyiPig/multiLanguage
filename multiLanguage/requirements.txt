@@ -64,7 +64,7 @@ mysql-connector==2.1.6
 nbconvert==5.4.0
 nbformat==4.4.0
 notebook==5.7.4
-numpy==1.14.5
+numpy==1.22.0
 opencv-python==3.4.1.15
 openpyxl==2.5.12
 pandocfilters==1.4.2
