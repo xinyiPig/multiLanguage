@@ -55,7 +55,7 @@ kazoo==2.6.1
 kiwisolver==1.0.1
 labelImg==1.8.1
 lxml==4.2.1
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 matplotlib==2.2.2
 mistune==0.8.4
